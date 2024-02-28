@@ -12,4 +12,4 @@ Portfolio: https://johnhoang.vercel.app/
 Python, Pygame
 
 ![Home](./public/ScreenShot/SnakeGameHomeScreen.png)
-![11](./public/ScreenShot/SnakeGame11.png)
+![11](./public/ScreenShot/SnakeGame11-1.png)
